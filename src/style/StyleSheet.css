@@ -1,0 +1,15 @@
+.btnNum{
+     -fx-background-color: transparent
+     
+}
+.btnNum:hover{
+    -fx-background-color: #E8E8E8;
+}
+.btnExe{
+    -fx-background-color: #EEE9E9;
+    
+}
+.btnExe:hover{
+    -fx-background-color: #CDC9C9;
+    
+}
